@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I’m Ts’eliso Ralieta 
 
-<!--
-**TselisoRalieta/TselisoRalieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an IT professional skilled in **UI/UX & Web Design, Full Stack Development, Mobile & Hybrid Applications, and IT Consulting**. I recently completed my studies and am awaiting my final results (10 Dec) from **Botho University**, Bachelor of Honors in Mobile Computing.  
 
-Here are some ideas to get you started:
+## Skills & Technologies
+- **Programming:** Java, PHP, C++, JavaScript, TypeScript, Python  
+- **Web & Mobile:** React, Angular, Ionic, Android Studio, Figma  
+- **Database:** MySQL, PostgreSQL, MongoDB, SQL Server  
+- **IoT & Robotics:** Arduino, ESP32, Sensors, Actuators, Circuit Design  
+- **Design & UI/UX:** Figma, Adobe Illustrator, Photoshop, Tailwind CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### [Project Public](https://github.com/TselisoRalieta/Project-Public)
+- Implemented a TypeScript-based system, focusing on frontend UI design and backend integration.  
+
+### [Recyclers](https://github.com/TselisoRalieta/Recyclers)
+- Developed a web application in TypeScript to manage recyclable materials, including data handling and UI improvements.  
+
+### [Observatory-of-Civil-Society-Organizations-Platform-website](https://github.com/TselisoRalieta/Observatory-of-Civil-Society-Organizations-Platform-website)
+- Full-stack project in JavaScript; involved designing and deploying a platform for civil society organizations, integrating APIs and testing for functionality.  
+
+## Contact
+- Email: tseliso.ralieta@bothouniversity.com  
+- LinkedIn: www.linkedin.com/in/ts-eliso-ralieta-8191b5257
