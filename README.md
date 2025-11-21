@@ -17,7 +17,13 @@ I am an IT professional skilled in **UI/UX & Web Design, Full Stack Development,
 - Developed a web application in TypeScript to manage recyclable materials, including data handling and UI improvements.  
 
 ### [Observatory-of-Civil-Society-Organizations-Platform-website](https://github.com/TselisoRalieta/Observatory-of-Civil-Society-Organizations-Platform-website)
-- Full-stack project in JavaScript; involved designing and deploying a platform for civil society organizations, integrating APIs and testing for functionality.  
+- Full-stack project in JavaScript; involved designing and deploying a platform for civil society organizations, integrating APIs and testing for functionality.
+
+- ### Projects
+- [Project Public](https://github.com/TselisoRalieta/Project-Public)  
+- [Recyclers](https://github.com/TselisoRalieta/Recyclers)  
+- [Observatory-of-Civil-Society-Organizations-Platform-website](https://github.com/TselisoRalieta/Observatory-of-Civil-Society-Organizations-Platform-website)
+
 
 ## Contact
 - Email: tseliso.ralieta@bothouniversity.com  
