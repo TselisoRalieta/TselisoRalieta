@@ -10,7 +10,7 @@ I am an IT professional skilled in **UI/UX & Web Design, Full Stack Development,
 - **Design & UI/UX:** Figma, Adobe Illustrator, Photoshop, Tailwind CSS  
 
 ## Projects
-### [Project Public](https://github.com/TselisoRalieta/Project-Public)
+### [Project (final year)](https://github.com/TselisoRalieta/Project-Public)
 - Implemented a TypeScript-based system, focusing on frontend UI design and backend integration.  
 
 ### [Recyclers](https://github.com/TselisoRalieta/Recyclers)
