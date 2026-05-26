@@ -26,5 +26,5 @@ I am an IT professional skilled in **UI/UX & Web Design, Full Stack Development,
 
 
 ## Contact
-- Email: tseliso.ralieta@bothouniversity.com  
+- Email: raqatho@gmail.com  
 - LinkedIn: www.linkedin.com/in/ts-eliso-ralieta-8191b5257
